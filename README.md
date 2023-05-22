@@ -1,1 +1,1 @@
-# Phyton_Syntax_Calisma
+# Phyton genel syntax çalışma kodları.
